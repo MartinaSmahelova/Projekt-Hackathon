@@ -73,10 +73,10 @@ namespace Projekt_Hackathon
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(91, 193);
+            this.label1.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.Location = new System.Drawing.Point(92, 211);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(204, 30);
+            this.label1.Size = new System.Drawing.Size(220, 30);
             this.label1.TabIndex = 1;
             this.label1.Text = "Jak se dnes mám?";
             // 
@@ -84,10 +84,10 @@ namespace Projekt_Hackathon
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(91, 380);
+            this.label2.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label2.Location = new System.Drawing.Point(92, 398);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(549, 30);
+            this.label2.Size = new System.Drawing.Size(600, 30);
             this.label2.TabIndex = 7;
             this.label2.Text = "Jak jsem spokojen se svou aktuální organizací času?";
             // 
@@ -95,10 +95,10 @@ namespace Projekt_Hackathon
             // 
             this.rbtn_odpoved1.AutoSize = true;
             this.rbtn_odpoved1.BackColor = System.Drawing.Color.Transparent;
-            this.rbtn_odpoved1.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtn_odpoved1.Location = new System.Drawing.Point(126, 433);
+            this.rbtn_odpoved1.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.rbtn_odpoved1.Location = new System.Drawing.Point(127, 451);
             this.rbtn_odpoved1.Name = "rbtn_odpoved1";
-            this.rbtn_odpoved1.Size = new System.Drawing.Size(154, 34);
+            this.rbtn_odpoved1.Size = new System.Drawing.Size(166, 34);
             this.rbtn_odpoved1.TabIndex = 10;
             this.rbtn_odpoved1.TabStop = true;
             this.rbtn_odpoved1.Text = "Líp to nejde";
@@ -109,10 +109,10 @@ namespace Projekt_Hackathon
             // 
             this.rbtn_odpoved3.AutoSize = true;
             this.rbtn_odpoved3.BackColor = System.Drawing.Color.Transparent;
-            this.rbtn_odpoved3.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtn_odpoved3.Location = new System.Drawing.Point(456, 433);
+            this.rbtn_odpoved3.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.rbtn_odpoved3.Location = new System.Drawing.Point(457, 451);
             this.rbtn_odpoved3.Name = "rbtn_odpoved3";
-            this.rbtn_odpoved3.Size = new System.Drawing.Size(120, 34);
+            this.rbtn_odpoved3.Size = new System.Drawing.Size(128, 34);
             this.rbtn_odpoved3.TabIndex = 11;
             this.rbtn_odpoved3.TabStop = true;
             this.rbtn_odpoved3.Text = "Jakžtakž";
@@ -123,10 +123,10 @@ namespace Projekt_Hackathon
             // 
             this.rbtn_odpoved4.AutoSize = true;
             this.rbtn_odpoved4.BackColor = System.Drawing.Color.Transparent;
-            this.rbtn_odpoved4.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtn_odpoved4.Location = new System.Drawing.Point(598, 433);
+            this.rbtn_odpoved4.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.rbtn_odpoved4.Location = new System.Drawing.Point(599, 451);
             this.rbtn_odpoved4.Name = "rbtn_odpoved4";
-            this.rbtn_odpoved4.Size = new System.Drawing.Size(116, 34);
+            this.rbtn_odpoved4.Size = new System.Drawing.Size(123, 34);
             this.rbtn_odpoved4.TabIndex = 12;
             this.rbtn_odpoved4.TabStop = true;
             this.rbtn_odpoved4.Text = "Nic moc";
@@ -137,10 +137,10 @@ namespace Projekt_Hackathon
             // 
             this.rbtn_odpoved2.AutoSize = true;
             this.rbtn_odpoved2.BackColor = System.Drawing.Color.Transparent;
-            this.rbtn_odpoved2.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtn_odpoved2.Location = new System.Drawing.Point(315, 433);
+            this.rbtn_odpoved2.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.rbtn_odpoved2.Location = new System.Drawing.Point(316, 451);
             this.rbtn_odpoved2.Name = "rbtn_odpoved2";
-            this.rbtn_odpoved2.Size = new System.Drawing.Size(106, 34);
+            this.rbtn_odpoved2.Size = new System.Drawing.Size(113, 34);
             this.rbtn_odpoved2.TabIndex = 13;
             this.rbtn_odpoved2.TabStop = true;
             this.rbtn_odpoved2.Text = "Ujde to";
@@ -151,10 +151,10 @@ namespace Projekt_Hackathon
             // 
             this.rbtn_odpoved5.AutoSize = true;
             this.rbtn_odpoved5.BackColor = System.Drawing.Color.Transparent;
-            this.rbtn_odpoved5.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtn_odpoved5.Location = new System.Drawing.Point(748, 433);
+            this.rbtn_odpoved5.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.rbtn_odpoved5.Location = new System.Drawing.Point(749, 451);
             this.rbtn_odpoved5.Name = "rbtn_odpoved5";
-            this.rbtn_odpoved5.Size = new System.Drawing.Size(140, 34);
+            this.rbtn_odpoved5.Size = new System.Drawing.Size(151, 34);
             this.rbtn_odpoved5.TabIndex = 14;
             this.rbtn_odpoved5.TabStop = true;
             this.rbtn_odpoved5.Text = "Fatal error";
@@ -165,29 +165,29 @@ namespace Projekt_Hackathon
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(91, 632);
+            this.label3.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label3.Location = new System.Drawing.Point(92, 660);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(334, 30);
+            this.label3.Size = new System.Drawing.Size(365, 30);
             this.label3.TabIndex = 15;
             this.label3.Text = "Do čeho nového se chci pustit? ";
             // 
             // txtbox_cile
             // 
-            this.txtbox_cile.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.txtbox_cile.Location = new System.Drawing.Point(96, 674);
+            this.txtbox_cile.Font = new System.Drawing.Font("Franklin Gothic Book", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.txtbox_cile.Location = new System.Drawing.Point(97, 692);
             this.txtbox_cile.Multiline = true;
             this.txtbox_cile.Name = "txtbox_cile";
-            this.txtbox_cile.Size = new System.Drawing.Size(605, 54);
+            this.txtbox_cile.Size = new System.Drawing.Size(595, 54);
             this.txtbox_cile.TabIndex = 16;
             // 
             // btn_odeslatCil
             // 
             this.btn_odeslatCil.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
-            this.btn_odeslatCil.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btn_odeslatCil.Location = new System.Drawing.Point(720, 674);
+            this.btn_odeslatCil.Font = new System.Drawing.Font("Franklin Gothic Book", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.btn_odeslatCil.Location = new System.Drawing.Point(721, 692);
             this.btn_odeslatCil.Name = "btn_odeslatCil";
-            this.btn_odeslatCil.Size = new System.Drawing.Size(168, 54);
+            this.btn_odeslatCil.Size = new System.Drawing.Size(177, 54);
             this.btn_odeslatCil.TabIndex = 17;
             this.btn_odeslatCil.Text = "Odeslat";
             this.btn_odeslatCil.UseVisualStyleBackColor = false;
@@ -197,10 +197,10 @@ namespace Projekt_Hackathon
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.Transparent;
-            this.label4.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(91, 769);
+            this.label4.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label4.Location = new System.Drawing.Point(92, 779);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(233, 30);
+            this.label4.Size = new System.Drawing.Size(255, 30);
             this.label4.TabIndex = 18;
             this.label4.Text = "Co se mi již povedlo? ";
             // 
@@ -208,38 +208,38 @@ namespace Projekt_Hackathon
             // 
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Transparent;
-            this.label5.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(91, 976);
+            this.label5.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label5.Location = new System.Drawing.Point(92, 995);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(289, 30);
+            this.label5.Size = new System.Drawing.Size(316, 30);
             this.label5.TabIndex = 26;
             this.label5.Text = "Co je pro mě nyní důležité?";
             // 
             // textBox_priority
             // 
-            this.textBox_priority.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBox_priority.Location = new System.Drawing.Point(96, 1018);
+            this.textBox_priority.Font = new System.Drawing.Font("Franklin Gothic Book", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBox_priority.Location = new System.Drawing.Point(97, 1036);
             this.textBox_priority.Multiline = true;
             this.textBox_priority.Name = "textBox_priority";
-            this.textBox_priority.Size = new System.Drawing.Size(801, 56);
+            this.textBox_priority.Size = new System.Drawing.Size(803, 60);
             this.textBox_priority.TabIndex = 27;
             // 
             // checkedListBox_splneneCile
             // 
             this.checkedListBox_splneneCile.BackColor = System.Drawing.Color.WhiteSmoke;
             this.checkedListBox_splneneCile.CheckOnClick = true;
-            this.checkedListBox_splneneCile.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.checkedListBox_splneneCile.Font = new System.Drawing.Font("Franklin Gothic Book", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.checkedListBox_splneneCile.FormattingEnabled = true;
-            this.checkedListBox_splneneCile.Location = new System.Drawing.Point(96, 802);
+            this.checkedListBox_splneneCile.Location = new System.Drawing.Point(97, 820);
             this.checkedListBox_splneneCile.Name = "checkedListBox_splneneCile";
-            this.checkedListBox_splneneCile.Size = new System.Drawing.Size(801, 136);
+            this.checkedListBox_splneneCile.Size = new System.Drawing.Size(801, 158);
             this.checkedListBox_splneneCile.TabIndex = 28;
             // 
             // btn_ulozit
             // 
             this.btn_ulozit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(200)))), ((int)(((byte)(171)))));
-            this.btn_ulozit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.btn_ulozit.Location = new System.Drawing.Point(394, 1244);
+            this.btn_ulozit.Font = new System.Drawing.Font("Franklin Gothic Book", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.btn_ulozit.Location = new System.Drawing.Point(395, 1262);
             this.btn_ulozit.Name = "btn_ulozit";
             this.btn_ulozit.Size = new System.Drawing.Size(182, 55);
             this.btn_ulozit.TabIndex = 29;
@@ -251,40 +251,40 @@ namespace Projekt_Hackathon
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(91, 1105);
+            this.label6.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label6.Location = new System.Drawing.Point(92, 1123);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(359, 30);
+            this.label6.Size = new System.Drawing.Size(389, 30);
             this.label6.TabIndex = 30;
             this.label6.Text = "Kdo je momentálně mou oporou? ";
             // 
             // textBox_opora
             // 
-            this.textBox_opora.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBox_opora.Location = new System.Drawing.Point(96, 1151);
+            this.textBox_opora.Font = new System.Drawing.Font("Franklin Gothic Book", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBox_opora.Location = new System.Drawing.Point(97, 1169);
             this.textBox_opora.Multiline = true;
             this.textBox_opora.Name = "textBox_opora";
-            this.textBox_opora.Size = new System.Drawing.Size(792, 56);
+            this.textBox_opora.Size = new System.Drawing.Size(803, 62);
             this.textBox_opora.TabIndex = 31;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.Transparent;
-            this.label7.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(91, 508);
+            this.label7.Font = new System.Drawing.Font("Franklin Gothic Book", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label7.Location = new System.Drawing.Point(92, 529);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(433, 30);
+            this.label7.Size = new System.Drawing.Size(473, 30);
             this.label7.TabIndex = 32;
             this.label7.Text = "Co můžu na své organizaci času vylepšit?";
             // 
             // textBox_vylepseniOrganizaceCasu
             // 
-            this.textBox_vylepseniOrganizaceCasu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBox_vylepseniOrganizaceCasu.Location = new System.Drawing.Point(96, 552);
+            this.textBox_vylepseniOrganizaceCasu.Font = new System.Drawing.Font("Franklin Gothic Book", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBox_vylepseniOrganizaceCasu.Location = new System.Drawing.Point(97, 570);
             this.textBox_vylepseniOrganizaceCasu.Multiline = true;
             this.textBox_vylepseniOrganizaceCasu.Name = "textBox_vylepseniOrganizaceCasu";
-            this.textBox_vylepseniOrganizaceCasu.Size = new System.Drawing.Size(792, 49);
+            this.textBox_vylepseniOrganizaceCasu.Size = new System.Drawing.Size(801, 53);
             this.textBox_vylepseniOrganizaceCasu.TabIndex = 33;
             // 
             // btn_angry
@@ -293,7 +293,7 @@ namespace Projekt_Hackathon
             this.btn_angry.FlatAppearance.BorderSize = 0;
             this.btn_angry.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_angry.Image = global::Projekt_Hackathon.Properties.Resources.anger;
-            this.btn_angry.Location = new System.Drawing.Point(707, 239);
+            this.btn_angry.Location = new System.Drawing.Point(689, 252);
             this.btn_angry.Name = "btn_angry";
             this.btn_angry.Size = new System.Drawing.Size(138, 138);
             this.btn_angry.TabIndex = 6;
@@ -306,7 +306,7 @@ namespace Projekt_Hackathon
             this.btn_sad.FlatAppearance.BorderSize = 0;
             this.btn_sad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_sad.Image = global::Projekt_Hackathon.Properties.Resources.sad;
-            this.btn_sad.Location = new System.Drawing.Point(563, 239);
+            this.btn_sad.Location = new System.Drawing.Point(554, 252);
             this.btn_sad.Name = "btn_sad";
             this.btn_sad.Size = new System.Drawing.Size(138, 138);
             this.btn_sad.TabIndex = 5;
@@ -319,7 +319,7 @@ namespace Projekt_Hackathon
             this.btn_neutral.FlatAppearance.BorderSize = 0;
             this.btn_neutral.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_neutral.Image = global::Projekt_Hackathon.Properties.Resources.neutral;
-            this.btn_neutral.Location = new System.Drawing.Point(438, 239);
+            this.btn_neutral.Location = new System.Drawing.Point(420, 252);
             this.btn_neutral.Name = "btn_neutral";
             this.btn_neutral.Size = new System.Drawing.Size(138, 138);
             this.btn_neutral.TabIndex = 4;
@@ -332,7 +332,7 @@ namespace Projekt_Hackathon
             this.btn_smile.FlatAppearance.BorderSize = 0;
             this.btn_smile.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_smile.Image = global::Projekt_Hackathon.Properties.Resources.smile;
-            this.btn_smile.Location = new System.Drawing.Point(315, 239);
+            this.btn_smile.Location = new System.Drawing.Point(295, 252);
             this.btn_smile.Name = "btn_smile";
             this.btn_smile.Size = new System.Drawing.Size(138, 138);
             this.btn_smile.TabIndex = 3;
@@ -345,7 +345,7 @@ namespace Projekt_Hackathon
             this.btn_wink.FlatAppearance.BorderSize = 0;
             this.btn_wink.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_wink.Image = global::Projekt_Hackathon.Properties.Resources.wink;
-            this.btn_wink.Location = new System.Drawing.Point(174, 239);
+            this.btn_wink.Location = new System.Drawing.Point(172, 252);
             this.btn_wink.Name = "btn_wink";
             this.btn_wink.Size = new System.Drawing.Size(138, 138);
             this.btn_wink.TabIndex = 2;
@@ -357,7 +357,7 @@ namespace Projekt_Hackathon
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(983, 1330);
+            this.ClientSize = new System.Drawing.Size(1011, 1357);
             this.Controls.Add(this.textBox_vylepseniOrganizaceCasu);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox_opora);
@@ -385,7 +385,7 @@ namespace Projekt_Hackathon
             this.Controls.Add(this.label_citat);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "rozhovor_sam_so_sebou";
-            this.Text = "Sebereflexe";
+            this.Text = "Rozhovor sám se sebou";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
