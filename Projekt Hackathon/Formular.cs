@@ -168,5 +168,10 @@ namespace Projekt_Hackathon
             RadioButton radioButton = sender as RadioButton; 
             organizaceCasuText = radioButton.Text;
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     }
